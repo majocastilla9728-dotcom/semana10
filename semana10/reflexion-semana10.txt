@@ -1,0 +1,11 @@
+Las metodologías ágiles ayudan a organizar mejor una comunidad porque permiten dividir
+ el trabajo en tareas claras y priorizadas dentro de un backlog. Las iteraciones 
+ facilitan avanzar poco a poco, revisar resultados y corregir errores sin esperar
+  hasta el final. Esto genera confianza y transparencia en los procesos comunitarios. La 
+  automatización, mediante herramientas como n8n y Telegram, puede apoyar la coordinación
+   al enviar recordatorios, avisos y notificaciones sin necesidad de intervención manual
+    constante. Sin embargo, es fundamental que la automatización sea responsable y no 
+    incluya datos sensibles, ya que podría afectar la privacidad de las personas. Además,
+     siempre debe existir supervisión humana para validar la información y mantener la
+      empatía en la comunicación. En conjunto, estas prácticas fortalecen la participación
+       ciudadana y hacen más eficiente el trabajo comunitario.

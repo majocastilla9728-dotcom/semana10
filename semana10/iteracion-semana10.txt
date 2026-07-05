@@ -1,0 +1,10 @@
+Tareas a realizar primero:
+1. Configurar alertas en Telegram para nuevos reportes.
+2. Permitir que ciudadanos registren incidencias.
+
+Son las más importantes porque garantizan la participación ciudadana y la respuesta rápida del equipo.
+
+Definición de terminado:
+- Funciona correctamente.
+- Fue probado por al menos un miembro del equipo.
+- Quedó registrado en Git con documentación básica.
